@@ -3,7 +3,7 @@
 Este é um modelo utilizado para relembrar alguma sintaxe e/ou arquitetura.
  - This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
 
-# Imagem Index
+### Imagem Index
 ![alt-text](https://raw.githubusercontent.com/skatesham/blog-angular/master/img/angular-index.png)
 
 ## Development server
