@@ -1,6 +1,7 @@
-# AngularProject
+# Blog Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
+Este é um modelo utilizado para relembrar alguma sintaxe e/ou arquitetura.
+ - This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
 
 ## Development server
 
